@@ -86,3 +86,8 @@ document.getElementById('addItem').onclick = async (event) => {
     }
 
 }
+// viết chức năng tìm kiếm
+let searchTask = (task) => {
+    console.log(task);
+}
+
